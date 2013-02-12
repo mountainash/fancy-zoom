@@ -1,1 +1,7 @@
+Modified version of an image optimised version of @jnunemaker original to work with jQuery 1.9 (browser detection removed).
+
+GIF support removed. Forced alpha PNG.
+
+jQuery only see original for other JS Library versions.
+
 Fancy zoom box loosely based on Cabel Sasser's FancyZoom. Built in prototype and jquery. Works unobtrusively with content already on the page, including images, headings, text and flash (pretty much any html).
